@@ -1,0 +1,6 @@
+
+172.16.1.1 -> 172.16.1.121[label=" 24074 V3 GETATTR Reply(Callin:24073) Directory mode: 0755 uid: 0 gid: 0    "];
+172.16.1.121 -> 172.16.1.1[label=" 24075 V3 GETATTR Call_fh:0x5c7a7f22           "];
+172.16.1.1 -> 172.16.1.121[label=" 24076 V3 GETATTR Reply(Callin:24075) Regular File mode: 0644 uid: 0 gid: 0   "];
+172.16.1.121 -> 172.16.1.1[label=" 24077 V3 GETATTR Call_fh:0xf2b1f1c8           "];
+172.16.1.1 -> 172.16.1.121[label=" 24078 V3 GETATTR Reply(Callin:24077) Directory mode: 0755 uid: 0 gid: 0    "];
