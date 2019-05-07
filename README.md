@@ -1,6 +1,6 @@
 # chomsky
 
-![GitHub Logo](/images/logo.png)
+![SVG](classifier-training-001-resnet-50.pcap.1.conversations.dot.svg)
 Format: ![Alt Text](url)
 ```
 root@GROOT01:/home/mike/chomsky# bash toptalking.sh
