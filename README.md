@@ -1,4 +1,7 @@
 # chomsky
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 ```
 root@GROOT01:/home/mike/chomsky# bash toptalking.sh
  Running as user "root" and group "root". This could be dangerous.
