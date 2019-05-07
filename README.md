@@ -1,10 +1,11 @@
 # chomsky
+```
 root@GROOT01:/home/mike/chomsky# bash toptalking.sh
-Running as user "root" and group "root". This could be dangerous.
-NFS Conversations
-172.16.1.121 172.16.1.1
-172.16.1.4 172.16.1.121
-172.16.1.4 172.16.1.121
+ Running as user "root" and group "root". This could be dangerous.
+ NFS Conversations
+ 172.16.1.121 172.16.1.1
+ 172.16.1.4 172.16.1.121
+ 172.16.1.4 172.16.1.121
 172.16.1.2 172.16.1.121
 172.16.1.1 172.16.1.121
 Source IP Addresses
@@ -32,7 +33,9 @@ Created  classifier-training-001-resnet-50.pcap.conversations.dot.svg
 classifier-training-001-resnet-50.pcap.dot
 Created  classifier-training-001-resnet-50.pcap.dot.svg
 root@GROOT01:/home/mike/chomsky#
-
+```
+# Make an animated gif from a conversation for a position and duration of a pcap.
+```
 root@GROOT01:/home/mike/chomsky# bash toptalk_animated.sh
 Running as user "root" and group "root". This could be dangerous.
 NFS Conversations
@@ -123,3 +126,5 @@ Output #0, gif, to 'output.gif':
       encoder         : Lavc57.89.100 gif
 frame=    6 fps=0.0 q=-0.0 Lsize=      44kB time=00:00:00.21 bitrate=1704.7kbits/s speed=4.39x
 video:43kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.933985%
+```
+
