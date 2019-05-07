@@ -1,7 +1,7 @@
 # chomsky
 
-![SVG](classifier-training-001-resnet-50.pcap.1.conversations.dot.svg)
-Format: ![Alt Text](url)
+![SVG](/chomsky/classifier-training-001-resnet-50.pcap.1.conversations.dot.svg)
+Format: ![Alt Text](/chomsky/classifier-training-001-resnet-50.pcap.1.conversations.dot.svg)
 ```
 root@GROOT01:/home/mike/chomsky# bash toptalking.sh
  Running as user "root" and group "root". This could be dangerous.
